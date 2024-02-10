@@ -306,7 +306,7 @@ mainopens.Parent = mainopen
  Logo.BackgroundTransparency = 1.000
  Logo.Position = UDim2.new(-0.01, 0,-0.319, 0)
  Logo.Size = UDim2.new(0, 55,0, 45)
- Logo.Image = "rbxassetid://16317388828"
+ Logo.Image = "rbxassetid://"
  
  local Name = Instance.new("TextLabel")
  Name.Name = "Name"
@@ -328,7 +328,7 @@ mainopens.Parent = mainopen
  Hub.Position = UDim2.new(0, 110, 0, 0)
  Hub.Size = UDim2.new(0, 81, 0, 27)
  Hub.Font = Enum.Font.Code
- Hub.Text = "| Maroky x Invincible  |"
+ Hub.Text = "|Maroky x Invincible|"
  Hub.TextColor3 = Color3.fromRGB(153,0,0)
  Hub.TextSize = 16.000
  Hub.TextXAlignment = Enum.TextXAlignment.Left
